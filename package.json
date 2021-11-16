@@ -7,7 +7,7 @@
   "author": "BJIT Ltd",
   "private": true,
   "dependencies": {
-    "aws-sdk": "^2.349.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.18.0",
     "bunyan": "^1.8.12",
     "dotenv": "^5.0.1",
