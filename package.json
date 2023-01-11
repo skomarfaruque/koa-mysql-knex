@@ -14,7 +14,7 @@
     "fs": "^0.0.1-security",
     "isomorphic-fetch": "^2.2.1",
     "json-to-form-data": "^1.0.0",
-    "knex": "^0.20.4",
+    "knex": "^2.4.0",
     "koa": "^2.4.1",
     "koa-body": "^4.0.4",
     "koa-multer": "^1.0.2",
